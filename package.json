@@ -1,7 +1,7 @@
 {
-  "name": "DhaBotz",
+  "name": "NizzBot",
   "version": "1.0.0",
-  "description": "Dah Pakai aja lah",
+  "description": "Free Whatsapp bot",
   "main": "yud.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node yud.js"
   },
-  "author": "YudhaPerdana",
+  "author": "DenisGnzz",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "awesome-phonenumber": "^2.56.2",
